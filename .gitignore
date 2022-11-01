@@ -6,3 +6,5 @@ Cargo.lock
 book/
 target/
 /.idea
+.vscode
+.gitignore
